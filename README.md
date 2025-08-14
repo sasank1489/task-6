@@ -42,4 +42,41 @@ body {
     text-align: center;
     padding: 50px;
 }
+```
+2️⃣ Created a New GitHub Repository
+
+3️⃣ Pushed Local Code to GitHub
+```
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/task-6.git
+git push -u origin main
+```
+4️⃣ Enabled GitHub Pages
+
+    Opened Settings in GitHub repo
+    
+    Navigated to Pages
+    
+    Under Source, selected:
+    
+    Branch: main
+    
+    Folder: / (root)
+    
+    Clicked Save
+
+5️⃣ Verified Live Website
+
+✅ Outcome
+
+Successfully hosted a static HTML & CSS website on GitHub Pages
+
+Learned to configure Pages settings for correct file serving
+
+Verified site works on a public URL
+
+
 
