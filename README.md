@@ -55,6 +55,7 @@ git remote add origin https://github.com/YOUR-USERNAME/task-6.git
 
 
 ```
+---
 4️⃣ Enabled GitHub Pages
 
     Opened Settings in GitHub repo
@@ -68,14 +69,17 @@ git remote add origin https://github.com/YOUR-USERNAME/task-6.git
     Folder: / (root)
     
     Clicked Save
-    <img width="1366" height="768" alt="github pages" src="https://github.com/user-attachments/assets/a768821e-a3ca-4a33-8b8e-3338b00dc285" />
 
+<img width="1366" height="768" alt="github pages" src="https://github.com/user-attachments/assets/a768821e-a3ca-4a33-8b8e-3338b00dc285" />    
 
+---
+
+---
 5️⃣ Verified Live Website
     https://sasank1489.github.io/task-6/
     <img width="1366" height="768" alt="live website" src="https://github.com/user-attachments/assets/38f47d7f-d835-4bdc-9780-d1c30ae150c2" />
 
-
+---
 ✅ Outcome
 
 Successfully hosted a static HTML & CSS website on GitHub Pages
